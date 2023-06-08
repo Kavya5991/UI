@@ -1,2 +1,2 @@
 echo "Hello world"
-echo "added contact feature"
+echo "added about feature"
